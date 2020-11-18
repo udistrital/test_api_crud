@@ -1,6 +1,7 @@
 lastupdate.tmp
 .vscode/
 test_api_crud
+routers/commentsRouter_controllers.go
 main
 .scannerwork/
 swagger/*.png
